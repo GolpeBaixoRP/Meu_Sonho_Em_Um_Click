@@ -1,0 +1,114 @@
+📘 DOCUMENTO MESTRE — Meu Sonho em Um Clique PS2
+
+Estrutura macro (um único documento, mas estruturado por seções internas):
+
+1. Introdução Geral
+
+Origem do projeto
+
+Motivação
+
+Contexto histórico
+
+Objetivo principal
+
+Visão de longo prazo
+
+2. Inventário Completo do Material Bruto
+
+Aqui entra:
+
+Apostila OPL
+
+Engenharia reversa USB Utils
+
+Apostila PS2
+
+Engenharia do PS2
+
+Protótipos
+
+Scripts
+
+Esboços
+
+Testes
+
+Fragmentos
+
+Anotações
+
+Tudo listado.
+Nada interpretado ainda.
+Só catalogado.
+
+3. Consolidação Técnica
+
+O que é repetido
+
+O que é complementar
+
+O que é conflitante
+
+O que é experimental
+
+O que é consolidado
+
+4. Engenharia do Ecossistema
+
+Estrutura UL
+
+Arquitetura de carregamento
+
+Limitações FAT32
+
+Segmentação
+
+Comportamento do OPL
+
+Relação com USB Utils
+
+5. Protótipos e Tentativas
+
+O que foi testado
+
+O que funcionou
+
+O que falhou
+
+O que ficou inconclusivo
+
+6. Lacunas Técnicas Identificadas
+
+Pontos obscuros
+
+Falta de documentação
+
+Ambiguidades
+
+Comportamentos não explicados
+
+7. Direção Arquitetural Futura
+
+Núcleo aberto
+
+Separação engine/interface
+
+Cultura de contribuição
+
+Modelo evolutivo
+
+Agora vem a parte prática:
+
+Eu não consigo “lembrar tudo do zip” automaticamente.
+Eu preciso extrair e analisar o conteúdo.
+
+Então o processo real será:
+
+1️⃣ Abrir o zip
+2️⃣ Listar todos os arquivos
+3️⃣ Classificar por tipo
+4️⃣ Ler os textos relevantes
+5️⃣ Sintetizar tudo num Documento Mestre estruturado
+
+Sem pular etapa.
