@@ -1,0 +1,5 @@
+=== RESUMO ESTRATEGICO ===
+Total de arquivos: 1498
+Python: 635
+Documentacao: 36
+Binarios: 21
