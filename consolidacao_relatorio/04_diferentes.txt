@@ -1,0 +1,4 @@
+tabs\formatar\__init__.py
+tabs\formatar\__pycache__\__init__.cpython-312.pyc
+tabs\formatar\__pycache__\prepare_drive_tab.cpython-312.pyc
+tabs\formatar\prepare_drive_tab.py

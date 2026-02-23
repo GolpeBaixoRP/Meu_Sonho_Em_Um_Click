@@ -1,0 +1,2 @@
+Possível núcleo do sistema:
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\ps1_list_tab.py

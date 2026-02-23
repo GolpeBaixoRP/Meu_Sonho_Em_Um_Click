@@ -1,0 +1,243 @@
+Projeto_Extraido\Nova pasta\Frontend-Backup\main - Copia.py
+   -> core
+   -> customtkinter
+   -> tabs
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\main.py
+   -> tabs
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\bootstrap.py
+   -> core
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\game_service.py
+   -> database
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\integrity_checker.py
+   -> os
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\service_container.py
+   -> database
+   -> core
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\ul_manager.py
+   -> math
+   -> zlib
+   -> os
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\unit_service.py
+   -> database
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\__init__.py
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\database\db_manager.py
+   -> datetime
+   -> sqlite3
+   -> os
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\database\__init__.py
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\formatar\prepare_drive_tab.py
+   -> subprocess
+   -> shutil
+   -> customtkinter
+   -> os
+   -> string
+   -> tkinter
+   -> __future__
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\formatar\__init__.py
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\ps1_list_tab.py
+   -> string
+   -> tkinter
+   -> __future__
+   -> os
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\ps1_write_tab.py
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\__init__.py
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\ps2_list_tab.py
+   -> tkinter
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\ps2_write_tab.py
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\__init__.py
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\compare_all_isos_forensic.py
+   -> hashlib
+   -> json
+   -> os
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\forensic_ul_capture_pro.py
+   -> datetime
+   -> hashlib
+   -> platform
+   -> sys
+   -> pathlib
+   -> json
+   -> os
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\verify_ul_rebuild.py
+   -> pathlib
+   -> hashlib
+   -> json
+   -> os
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli.py
+   -> struct
+   -> datetime
+   -> zlib
+   -> hashlib
+   -> sys
+   -> shutil
+   -> os
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli_v2.py
+   -> datetime
+   -> hashlib
+   -> sys
+   -> shutil
+   -> math
+   -> os
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli_v3.py
+   -> struct
+   -> datetime
+   -> zlib
+   -> hashlib
+   -> sys
+   -> shutil
+   -> os
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta (2)\ul_clone - Copia.py
+   -> datetime
+   -> zlib
+   -> logging
+   -> re
+   -> pathlib
+   -> os
+
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta (2)\ul_clone.py
+   -> zlib
+   -> os
+
+Projeto_Extraido\Nova pasta\seu_projeto\main.py
+   -> tabs
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\executors\drive_executor.py
+   -> subprocess
+   -> typing
+   -> time
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\executors\file_executor.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\drive_format_manager.py
+   -> backend
+   -> os
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\installer_manager.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\device_service.py
+   -> subprocess
+   -> platform
+   -> typing
+   -> json
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\drive_format_service.py
+   -> subprocess
+   -> sys
+   -> time
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\installer_service.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\utils\drive_utils.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\backend\utils\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\bridge\app_controller.py
+   -> typing
+   -> backend
+
+Projeto_Extraido\Nova pasta\seu_projeto\bridge\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\core\bootstrap.py
+   -> core
+
+Projeto_Extraido\Nova pasta\seu_projeto\core\game_service.py
+   -> database
+
+Projeto_Extraido\Nova pasta\seu_projeto\core\integrity_checker.py
+   -> os
+
+Projeto_Extraido\Nova pasta\seu_projeto\core\service_container.py
+   -> database
+   -> core
+
+Projeto_Extraido\Nova pasta\seu_projeto\core\ul_manager.py
+   -> math
+   -> zlib
+   -> os
+
+Projeto_Extraido\Nova pasta\seu_projeto\core\unit_service.py
+   -> database
+
+Projeto_Extraido\Nova pasta\seu_projeto\core\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\database\db_manager.py
+   -> datetime
+   -> sqlite3
+   -> os
+
+Projeto_Extraido\Nova pasta\seu_projeto\database\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\formatar\prepare_drive_tab.py
+   -> sys
+   -> customtkinter
+   -> time
+   -> os
+   -> tkinter
+   -> backend
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\formatar\__init__.py
+   -> bridge
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\ps1_list_tab.py
+   -> string
+   -> tkinter
+   -> __future__
+   -> os
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\ps1_write_tab.py
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\ps2_list_tab.py
+   -> tkinter
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\ps2_write_tab.py
+   -> customtkinter
+
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\__init__.py
+
+Projeto_Extraido\Nova pasta\seu_projeto\test\test_device_service.py
+   -> bridge
+
+Projeto_Extraido\Nova pasta\seu_projeto\test\test_drive_format.py
+   -> sys
+   -> backend
+   -> os
+

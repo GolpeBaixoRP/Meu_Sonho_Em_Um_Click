@@ -1,0 +1,61 @@
+Projeto_Extraido\Nova pasta\Frontend-Backup\main - Copia.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\main.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\bootstrap.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\game_service.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\integrity_checker.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\service_container.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\ul_manager.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\unit_service.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\__init__.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\database\db_manager.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\database\__init__.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\formatar\prepare_drive_tab.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\formatar\__init__.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\ps1_list_tab.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\ps1_write_tab.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\__init__.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\ps2_list_tab.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\ps2_write_tab.py
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\__init__.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\compare_all_isos_forensic.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\forensic_ul_capture_pro.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\verify_ul_rebuild.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli_v2.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli_v3.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta (2)\ul_clone - Copia.py
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta (2)\ul_clone.py
+Projeto_Extraido\Nova pasta\seu_projeto\main.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\executors\drive_executor.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\executors\file_executor.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\drive_format_manager.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\installer_manager.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\device_service.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\drive_format_service.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\installer_service.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\utils\drive_utils.py
+Projeto_Extraido\Nova pasta\seu_projeto\backend\utils\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\bridge\app_controller.py
+Projeto_Extraido\Nova pasta\seu_projeto\bridge\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\core\bootstrap.py
+Projeto_Extraido\Nova pasta\seu_projeto\core\game_service.py
+Projeto_Extraido\Nova pasta\seu_projeto\core\integrity_checker.py
+Projeto_Extraido\Nova pasta\seu_projeto\core\service_container.py
+Projeto_Extraido\Nova pasta\seu_projeto\core\ul_manager.py
+Projeto_Extraido\Nova pasta\seu_projeto\core\unit_service.py
+Projeto_Extraido\Nova pasta\seu_projeto\core\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\database\db_manager.py
+Projeto_Extraido\Nova pasta\seu_projeto\database\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\formatar\prepare_drive_tab.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\formatar\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\ps1_list_tab.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\ps1_write_tab.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\ps2_list_tab.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\ps2_write_tab.py
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\__init__.py
+Projeto_Extraido\Nova pasta\seu_projeto\test\test_device_service.py
+Projeto_Extraido\Nova pasta\seu_projeto\test\test_drive_format.py

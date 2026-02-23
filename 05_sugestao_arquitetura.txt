@@ -1,0 +1,5 @@
+Sugestão Estrutural:
+- core/: lógica principal
+- database/: persistência
+- interface/: tabs e frontend
+- forense_ul/: ferramentas UL

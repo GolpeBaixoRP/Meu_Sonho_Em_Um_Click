@@ -1,0 +1,61 @@
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\ps1_list_tab.py | funcoes=19 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\ps1_list_tab.py | funcoes=19 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\database\db_manager.py | funcoes=12 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\formatar\prepare_drive_tab.py | funcoes=12 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\database\db_manager.py | funcoes=12 | classes=1
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli_v3.py | funcoes=9 | classes=0
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli_v2.py | funcoes=8 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\formatar\prepare_drive_tab.py | funcoes=8 | classes=1
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta\ulcli.py | funcoes=7 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\drive_format_service.py | funcoes=7 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\game_service.py | funcoes=6 | classes=1
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta (2)\ul_clone - Copia.py | funcoes=6 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\core\game_service.py | funcoes=6 | classes=1
+Projeto_Extraido\Nova pasta\MANUAL UL P2\verify_ul_rebuild.py | funcoes=5 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\ul_manager.py | funcoes=4 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\unit_service.py | funcoes=4 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\ps2_list_tab.py | funcoes=4 | classes=1
+Projeto_Extraido\Nova pasta\MANUAL UL P2\compare_all_isos_forensic.py | funcoes=4 | classes=0
+Projeto_Extraido\Nova pasta\MANUAL UL P2\forensic_ul_capture_pro.py | funcoes=4 | classes=0
+Projeto_Extraido\Nova pasta\MANUAL UL P2\Nova pasta (2)\ul_clone.py | funcoes=4 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\bridge\app_controller.py | funcoes=4 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\core\ul_manager.py | funcoes=4 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\core\unit_service.py | funcoes=4 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\ps2_list_tab.py | funcoes=4 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\ps1_write_tab.py | funcoes=3 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\ps2_write_tab.py | funcoes=3 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\ps1_write_tab.py | funcoes=3 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\ps2_write_tab.py | funcoes=3 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\main - Copia.py | funcoes=2 | classes=1
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\service_container.py | funcoes=2 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\backend\executors\drive_executor.py | funcoes=2 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\drive_format_manager.py | funcoes=2 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\device_service.py | funcoes=2 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\core\service_container.py | funcoes=2 | classes=1
+Projeto_Extraido\Nova pasta\seu_projeto\test\test_drive_format.py | funcoes=2 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\main.py | funcoes=1 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\bootstrap.py | funcoes=1 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\integrity_checker.py | funcoes=1 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\main.py | funcoes=1 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\core\bootstrap.py | funcoes=1 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\core\integrity_checker.py | funcoes=1 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\core\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\database\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\formatar\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps1\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\Frontend-Backup\tabs\ps2\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\executors\file_executor.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\installer_manager.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\managers\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\installer_service.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\services\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\utils\drive_utils.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\backend\utils\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\bridge\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\core\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\database\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\formatar\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps1\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\tabs\ps2\__init__.py | funcoes=0 | classes=0
+Projeto_Extraido\Nova pasta\seu_projeto\test\test_device_service.py | funcoes=0 | classes=0

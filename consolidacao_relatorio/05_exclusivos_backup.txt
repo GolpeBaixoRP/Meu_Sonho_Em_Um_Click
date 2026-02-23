@@ -1,0 +1,2 @@
+Novo Documento de Texto.txt
+main - Copia.py
